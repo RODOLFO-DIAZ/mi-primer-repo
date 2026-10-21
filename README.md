@@ -1,6 +1,8 @@
 # Mi primer repositorio
 
-Este es mi primer repositorio real con git.
+Este repositorio documenta mi aprendizaje de Git.
+
+Autor: Rodolfo Díaz Solano
 
 ## Poema
 
